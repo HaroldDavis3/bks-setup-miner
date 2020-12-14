@@ -9,7 +9,7 @@ miner = true
 [burnchain]
 chain = "bitcoin"
 mode = "krypton"
-peer_host = "bitcoind.blockstack.org"
+peer_host = "bitcoind.krypton.blockstack.org"
 rpc_port = 18443
 peer_port = 18444
 
